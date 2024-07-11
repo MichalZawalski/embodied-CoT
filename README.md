@@ -79,7 +79,7 @@ High-level overview of repository/project file-tree:
 
 #### Citation
 
-If you find our code or models useful in your work, please cite [our paper (TODO link)](TODO):
+If you find our code or models useful in your work, please cite [our paper](https://embodied-cot.github.io/static/paper.pdf):
 
 ```bibtex
 @article{Zawalski24-ecot,
